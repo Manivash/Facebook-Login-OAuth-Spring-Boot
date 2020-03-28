@@ -1,0 +1,7 @@
+App Id: 610649236329518
+App Secret: c6a361b8756a0948b79cf953ecc2ae1a
+1 developers.facebook.com 
+2 create app
+3 Display name and email then submit
+4 Select Facebook Login integration
+5 Before enable select settings/Basic
